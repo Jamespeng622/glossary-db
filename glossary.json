@@ -1,0 +1,27 @@
+[
+    {
+        "chinese":"密集書庫",
+        "quantity":1,
+        "translation":[ "Compact Bookstacks" ]
+    },
+    {
+        "chinese":"讀者",
+        "quantity":2,
+        "translation":[ "Patron", "User" ]
+    },
+    {
+        "chinese":"預約",
+        "quantity":2,
+        "translation":[ "Reserve", "Book" ]
+    },
+    {
+        "chinese":"眷屬",
+        "quantity":1,
+        "translation":[ "Immediate Family Members" ]
+    },
+    {
+        "chinese":"圖書館之友",
+        "quantity":1,
+        "translation":[ "NTHU Library Membership Card" ]
+    }
+]
